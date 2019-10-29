@@ -1,1 +1,1 @@
-# helderpipe
+[![Build Status](https://dev.azure.com/Helderng/Redrain/_apis/build/status/tumene.helderpipe?branchName=master)](https://dev.azure.com/Helderng/Redrain/_build/latest?definitionId=5&branchName=master)# helderpipe
